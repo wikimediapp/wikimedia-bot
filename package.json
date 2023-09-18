@@ -4,7 +4,6 @@
   "description": "Alarma para extender dias en https://dash.zeabur.com",
   "main": "index.js",
   "scripts": {
-    "test": "test",
     "bot": "nodemon index.js"
   },
   "keywords": [
