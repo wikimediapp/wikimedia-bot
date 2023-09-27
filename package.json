@@ -1,5 +1,5 @@
 {
-  "name": "wikimediazeaburbot",
+  "name": "wikimediaTelegramBot",
   "version": "1.0.0",
   "description": "Alarma para extender dias en https://dash.zeabur.com",
   "main": "index.js",
